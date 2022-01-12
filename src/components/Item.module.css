@@ -1,0 +1,28 @@
+.card {
+    border: 1px solid rgb(229, 232, 235);
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.thumbnail {
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.title {
+    color: black;
+    font-size: 17px;
+    padding-top: 15px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.price {
+    color: black;
+    font-size: 14px;
+    text-align: center;
+}
