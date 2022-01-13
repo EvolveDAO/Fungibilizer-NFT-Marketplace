@@ -7,6 +7,13 @@ Fungibilizer is simple yet powerful NFT marketplace for self-hosting.
 
 ![features](https://siasky.net/zABnbGP2xqBBXBGpPFYZMUWvmrIxCQvBP9epV-f_c-3okg)
 
+## Feature Roadmap
+
+- Polygon with [Metamask](https://metamask.io/) wallet.
+- Decentralized hosting with [Skynet](https://siasky.net/).
+- Admin dashboard.
+- Easy 1-click install.
+
 ## Philosophy
 
 - **Decentralization is a must**. Platforms like wordpress are feature rich web2 platforms that represent
